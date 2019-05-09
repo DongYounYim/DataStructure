@@ -13,9 +13,9 @@ public class HanoiTop {
         if (n == 0) {
             return ;
         } else {
-            move2(n-1, x, y, z);
+            move2(n-1, x, z, y);
             System.out.println(x + "→" + z);
-            move2(n-1, y, z, x);
+            move2(n-1, y, x, z);
         }
     }
 }
