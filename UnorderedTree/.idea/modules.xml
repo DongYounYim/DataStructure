@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/UnirderedTree.iml" filepath="$PROJECT_DIR$/UnirderedTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UnorderedTree.iml" filepath="$PROJECT_DIR$/UnorderedTree.iml" />
     </modules>
   </component>
 </project>
