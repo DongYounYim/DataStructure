@@ -1,3 +1,4 @@
+//일반 BinaryTree , 아직 이해를 못한 코드
 public class BinaryTree {
     private Object root;
     private BinaryTree left ,right;
