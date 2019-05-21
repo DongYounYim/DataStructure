@@ -39,8 +39,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/TreeNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="34" column="12" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="12" />
+            <state relative-caret-position="334">
+              <caret line="34" column="21" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
               <folding>
                 <element signature="e#345#346#0" expanded="true" />
                 <element signature="e#372#373#0" expanded="true" />
@@ -54,15 +54,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-126">
-              <caret line="57" column="26" selection-start-line="57" selection-start-column="26" selection-end-line="57" selection-end-column="26" />
+            <state relative-caret-position="1634">
+              <caret line="86" column="104" selection-start-line="86" selection-start-column="104" selection-end-line="86" selection-end-column="104" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#299#309#0" expanded="true" />
-                <element signature="e#726#736#0" expanded="true" />
-                <element signature="e#778#788#0" expanded="true" />
-                <element signature="e#830#840#0" expanded="true" />
-                <element signature="e#1452#1462#0" expanded="true" />
+                <element signature="e#1139#1149#0" expanded="true" />
+                <element signature="e#1191#1201#0" expanded="true" />
+                <element signature="e#1813#1823#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -96,8 +94,8 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="676" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
     <option name="width" value="697" />
     <option name="height" value="775" />
   </component>
@@ -108,31 +106,12 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Binary_Tree" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Binary_Tree" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Binary_Tree" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Binary_Tree" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558357543481" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558437490515" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -188,11 +167,14 @@
       <workItem from="1557978301884" duration="2398000" />
       <workItem from="1557989200533" duration="5039000" />
       <workItem from="1558326284783" duration="15098000" />
+      <workItem from="1558361225592" duration="39000" />
+      <workItem from="1558400931343" duration="1687000" />
+      <workItem from="1558436334955" duration="1495000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31685000" />
+    <option name="totallyTimeSpent" value="34906000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -204,7 +186,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="676" y="0" width="697" height="775" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.14750378" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -288,8 +271,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/TreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="34" column="12" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="12" />
+        <state relative-caret-position="334">
+          <caret line="34" column="21" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
           <folding>
             <element signature="e#345#346#0" expanded="true" />
             <element signature="e#372#373#0" expanded="true" />
@@ -301,15 +284,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-126">
-          <caret line="57" column="26" selection-start-line="57" selection-start-column="26" selection-end-line="57" selection-end-column="26" />
+        <state relative-caret-position="1634">
+          <caret line="86" column="104" selection-start-line="86" selection-start-column="104" selection-end-line="86" selection-end-column="104" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#299#309#0" expanded="true" />
-            <element signature="e#726#736#0" expanded="true" />
-            <element signature="e#778#788#0" expanded="true" />
-            <element signature="e#830#840#0" expanded="true" />
-            <element signature="e#1452#1462#0" expanded="true" />
+            <element signature="e#1139#1149#0" expanded="true" />
+            <element signature="e#1191#1201#0" expanded="true" />
+            <element signature="e#1813#1823#0" expanded="true" />
           </folding>
         </state>
       </provider>
