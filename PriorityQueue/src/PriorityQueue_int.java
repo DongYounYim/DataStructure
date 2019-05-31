@@ -30,6 +30,7 @@ public class PriorityQueue_int {
     }
 
     public int best() {
+        if(Heap == null) throw new java.util.NoSuchElementException();
         return Heap[1];
     }
 

@@ -1,11 +1,9 @@
 public class Node {
-    int key;
-    Node left;
-    Node right;
+    Object elements;
+    int priority;
 
-    public Node(int key, Node left, Node right) {
-        this.key = key;
-        this.left = left;
-        this.right = right;
+    Node(Object elements, int priority) {
+        this.elements = elements;
+        this.priority = priority;
     }
 }
