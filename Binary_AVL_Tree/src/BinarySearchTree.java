@@ -96,7 +96,11 @@ public class BinarySearchTree {
                 while(p.left != null) {
                     p = p.left;
                 }
+                if(p.right != null) {
+                    Node temp = p.right;
+                }
                 root.left = p;
+                p = p.right;
                 return true;
             }
             if(root.right.left != null && root.right.right != null) {       //루트의 오른쪽에 contain되어 있고 양쪽 서브트리 존재
@@ -104,7 +108,11 @@ public class BinarySearchTree {
                 while(p.left != null) {
                     p = p.left;
                 }
+                if(p.right != null) {                                       //올리려는 값에 자식이 있을 때
+                    Node temp = p.right;
+                }
                 root.left = p;
+                p = p.right;                                                //올리려는 값의 자리에 자식을 넣어줌
                 return true;
             }
         }
@@ -126,7 +134,11 @@ public class BinarySearchTree {
                 while(p.left != null) {
                     p = p.left;
                 }
+                if(p.right != null) {                               //올리려는 값에 자식이 있을 때
+                    Node temp = p.right;
+                }
                 root = p;
+                p = p.right;                                        //올리는 값의 자리에 자식을 넣어줌
                 return true;
             }
         }
