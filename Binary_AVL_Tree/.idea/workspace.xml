@@ -27,11 +27,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/BinarySearchTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1254">
-              <caret line="66" selection-start-line="66" selection-end-line="66" />
+            <state relative-caret-position="551">
+              <caret line="59" column="30" selection-start-line="59" selection-start-column="30" selection-end-line="59" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -45,10 +45,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/AVL.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="372">
+            <state relative-caret-position="554">
               <caret line="106" column="33" selection-start-line="106" selection-start-column="33" selection-end-line="106" selection-end-column="33" />
             </state>
           </provider>
@@ -57,7 +57,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Node.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
+            <state relative-caret-position="608">
               <caret line="32" column="27" selection-start-line="32" selection-start-column="27" selection-end-line="32" selection-end-column="27" />
               <folding>
                 <element signature="e#89#90#0" expanded="true" />
@@ -93,14 +93,14 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/Node.java" />
-        <option value="$PROJECT_DIR$/src/BinarySearchTree.java" />
         <option value="$PROJECT_DIR$/src/AVLNode.java" />
         <option value="$PROJECT_DIR$/src/AVL.java" />
+        <option value="$PROJECT_DIR$/src/BinarySearchTree.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-9" />
     <option name="width" value="697" />
     <option name="height" value="775" />
   </component>
@@ -168,16 +168,22 @@
       <workItem from="1558583045363" duration="3685000" />
       <workItem from="1558930745175" duration="6628000" />
       <workItem from="1559006005404" duration="71000" />
+      <workItem from="1559030223555" duration="317000" />
+      <workItem from="1559963532121" duration="443000" />
+      <workItem from="1559965182530" duration="31000" />
+      <workItem from="1559982793834" duration="92000" />
+      <workItem from="1559993894162" duration="373000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17130000" />
+    <option name="totallyTimeSpent" value="18386000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <frame x="-9" y="0" width="697" height="775" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1785174" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.40502355" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -211,13 +217,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/BinarySearchTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1254">
-          <caret line="66" selection-start-line="66" selection-end-line="66" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/AVLNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -227,7 +226,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Node.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
+        <state relative-caret-position="608">
           <caret line="32" column="27" selection-start-line="32" selection-start-column="27" selection-end-line="32" selection-end-column="27" />
           <folding>
             <element signature="e#89#90#0" expanded="true" />
@@ -248,8 +247,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/AVL.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
+        <state relative-caret-position="554">
           <caret line="106" column="33" selection-start-line="106" selection-start-column="33" selection-end-line="106" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BinarySearchTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="59" column="30" selection-start-line="59" selection-start-column="30" selection-end-line="59" selection-end-column="30" />
         </state>
       </provider>
     </entry>

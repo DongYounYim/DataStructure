@@ -49,7 +49,7 @@ public class BinarySearchTree {
                 if(root.right != null) {
                     root = root.right;
                 } else {
-                    root.key = value;
+                    root.right.key = value;
                     return true;
                 }
             }
@@ -57,7 +57,7 @@ public class BinarySearchTree {
                 if(root.left != null) {
                     root = root.left;
                 } else {
-                    root.key = value;
+                    root.left.key = value;
                     return true;
                 }
             }
